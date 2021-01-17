@@ -16,5 +16,7 @@ La apliacación mostrará la siguiente información en la pantalla:
 - El número y el precio de las habitaciones.
 - El nombre y el correo electrónico de todos los usuarios.
 
+![20487D_Images](https://github.com/ialcaidef/Creating-a-Data-Access-Layer-using-Entity-Framework/blob/master/DatabaseTester/01.png)
+
 La aplicación puede ahora mostrar todos los datos de la base de datos utilizando consultas LINQ.
 
